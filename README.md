@@ -72,3 +72,82 @@ However, the system design establishes a solid foundation for **real-time SAR da
 - Generated **TIFFs**, **images**, and **GIFs** showing surface change and glacier retreat  
 - Designed an **FPGA system architecture** (MicroBlaze + DMA) for future hardware acceleration  
 - Developed a clear **workflow and proof-of-concept** for real-time glacier monitoring using SAR
+
+
+
+---
+
+## 🚀 Future Goals
+
+- Complete FPGA implementation by integrating the SAR processing kernel  
+- Benchmark performance for speed, accuracy, and energy efficiency  
+- Scale the design to process **full-resolution SAR datasets**  
+- Integrate **AI-based change detection models** (CNNs, Transformers) for automated glacier monitoring  
+- Deploy on **UAVs or small satellites** for **onboard, real-time data processing**
+
+---
+
+## 🤖 Use of Artificial Intelligence
+
+We used **ChatGPT** as an AI tool to:
+- Guide workflow development and understand SAR preprocessing techniques  
+- Structure Python-based preprocessing scripts  
+- Help organize documentation (README and project submission)  
+
+In future versions, we plan to incorporate **AI models** for:
+- Automated glacier boundary detection  
+- Ice melt and surface deformation classification  
+- Intelligent data filtering and noise reduction in SAR imagery  
+
+---
+
+## 🛰️ NASA & Partner Resources
+
+| Source | Link |
+|---------|------|
+| **NASA ASF Vertex (SAR Data)** | https://vertex.daac.asf.alaska.edu |
+| **ESA SNAP Toolbox** | https://step.esa.int/main/toolboxes/snap/ |
+| **Google Earth Pro** | https://www.google.com/earth/versions/ |
+| **Xilinx Vivado Design Suite** | https://www.xilinx.com/products/design-tools/vivado.html |
+| **Python Rasterio Library** | https://rasterio.readthedocs.io |
+| **Matplotlib Library** | https://matplotlib.org |
+
+---
+
+## 📹 Project Demo
+
+**Video Link:** [Add your YouTube / Google Drive public link here]  
+**Duration:** 42 seconds  
+**Description:**  
+Demonstrates SAR data preprocessing, glacier surface visualization, FPGA architecture (MicroBlaze + DMA), and the proposed future direction for real-time SAR data processing.
+
+---
+
+## 🧑‍🚀 Team ObSARve
+
+- K.Sphoorti, I.Mounika, K.Vyshamya 
+- BVRIT Hyderabad College of Engineering for women 
+- Hyderabad, India  
+- Contact: 23wh1a0492@bvrithyderabad.edu.in, 23wh1a0494@bvrithyderabad.edu.in, 23wh1a0468@bvrithyderabad.edu.in
+
+---
+
+## 📄 License
+
+This project is released under the **MIT License**.  
+You are free to use, modify, and distribute the work with appropriate credit.
+
+---
+
+## 💬 Acknowledgments
+
+- **NASA Space Apps Challenge** for providing the platform  
+- **NASA ASF DAAC** for open SAR datasets  
+- **ESA SNAP Team** for the Sentinel processing toolbox  
+- **ChatGPT** for AI-guided documentation and workflow planning  
+- **Mentors & Teammates** for collaboration and technical support  
+
+---
+
+> *“From space to silicon — ObSARve accelerates Earth observation through smarter SAR processing and FPGA innovation.”*
+
