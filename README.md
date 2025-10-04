@@ -116,7 +116,7 @@ In future versions, we plan to incorporate **AI models** for:
 
 ## 📹 Project Demo
 
-**Video Link:** [[Add your YouTube / Google Drive public link here]  ](https://youtu.be/7olwssjQ0LU)
+**Video Link:** [Click here to see outputs processed with data from ASF vertex]  ](https://youtu.be/7olwssjQ0LU)
 **Duration:** 42 seconds  
 **Description:**  
 Demonstrates SAR data preprocessing, glacier surface visualization, FPGA architecture (MicroBlaze + DMA), and the proposed future direction for real-time SAR data processing.
